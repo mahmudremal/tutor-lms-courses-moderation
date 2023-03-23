@@ -1,0 +1,7 @@
+.fwp-body {
+  .tutor-dropdown-item.tutor-admin-course-delete {
+    &[data-tutor-modal-target] {
+      display: none;
+    }
+  }
+}
